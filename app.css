@@ -1,0 +1,14 @@
+h1{
+    font-size: 15rem;
+}
+.letter{
+    transition:color 1000ms ;
+}
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
